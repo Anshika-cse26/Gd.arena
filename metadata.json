@@ -1,0 +1,6 @@
+{
+  "name": "GD Arena - Voice AI Group Discussion Simulator",
+  "description": "Realistic voice-first Group Discussion simulator with diverse AI personalities, live audio turn-taking, real-time nudges, and deep quoted placement feedback reports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
